@@ -10,3 +10,6 @@ https://roadmap.sh/projects/single-page-cv
 # Second Project - Basic HTML Website
 ## Project Description
 Created a Basic HTML Website with correct file structure. Was able to create multiple pages with the website. Then structured it to be able to add styles later, and added SEO meta tags to the website.
+
+## Project URL
+https://roadmap.sh/projects/basic-html-website
